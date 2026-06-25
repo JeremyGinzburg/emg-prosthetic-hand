@@ -8,4 +8,8 @@ Research existing prosthetic hand designs and identify realistic models for firs
 - Analyzed 20+ degrees of freedom in human hands (how fingers and wrist bend) (Source: https://www.researchgate.net/figure/Full-degrees-of-freedom-of-a-hand-It-involves-the-use-of-26-DOFs-being-3-for-the_fig3_2579054)
 
 ### Relevance to Project
-- 
+- Decided on using coupled finger joints to reduce the number of motors/servos required
+- Will explore the idea of using timing belts in the wrist mechanism (not final)
+
+### Next Steps
+- Research prosthetic models in public repositories and begin initial CAD designs
