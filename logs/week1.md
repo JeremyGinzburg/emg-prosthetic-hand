@@ -12,4 +12,5 @@ Research existing prosthetic hand designs and identify realistic models for firs
 - Will explore the idea of using timing belts in the wrist mechanism (not final)
 
 ### Next Steps
-- Research prosthetic models in public repositories and begin initial CAD designs
+- Research prosthetic models in public repositories
+- Begin initial CAD designs for fingers in Solidworks
