@@ -14,3 +14,15 @@ Research existing prosthetic hand designs and identify realistic models for firs
 ### Next Steps
 - Research prosthetic models in public repositories
 - Begin initial CAD designs for fingers in Solidworks
+
+## June 26, 2026
+
+### Goal
+Begin designing fingertip with joint attachement in Solidworks
+
+### What I Did
+- Modeled a simple hollow fingertip using the Revolve and Shell tools
+- Added two tabs with screw holes for a joint mechanism
+
+### Next Steps
+- Design middle portion of finger that fits into the fingertip
