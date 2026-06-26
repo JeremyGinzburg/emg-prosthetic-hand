@@ -23,6 +23,8 @@ Begin designing fingertip with joint attachement in Solidworks
 ### What I Did
 - Modeled a simple hollow fingertip using the Revolve and Shell tools
 - Added two tabs with screw holes for a joint mechanism
+  <img width="142" height="260" alt="image" src="https://github.com/user-attachments/assets/53feefc4-0860-4df0-9d4b-62275158f6a8" />
+
 
 ### Next Steps
 - Design middle portion of finger that fits into the fingertip
