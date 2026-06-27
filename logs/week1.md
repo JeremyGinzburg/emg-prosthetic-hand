@@ -43,4 +43,11 @@ Design middle portion of finger and try attaching it to fingertip in Assembly
   <img width="184" height="318" alt="image" src="https://github.com/user-attachments/assets/32cad8ba-a2c8-48de-87dc-2b6a5ff9c441" />
   <img width="320" height="359" alt="image" src="https://github.com/user-attachments/assets/50e754d6-0c11-41ae-a392-de1a7762d33b" />
 
+- Joint mechanism looks feasible in Assembly
+- Realized that the tabs with screw holes on the fingertip are too far apart, so the two parts would slide horizontally against each other
+
+### Next Steps
+- Modify the fingertip and middle portion of the finger so the joint has only one degree of freedom
+- 3D print both pieces and try attaching them together
+
 
