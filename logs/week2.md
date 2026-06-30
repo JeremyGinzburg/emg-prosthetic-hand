@@ -28,4 +28,9 @@
 
 <img width="258" height="227" alt="image" src="https://github.com/user-attachments/assets/d811d0a4-d366-4a3c-b0f1-78cf6327a801" />
 <img width="229" height="281" alt="image" src="https://github.com/user-attachments/assets/a2fee849-8e54-4bcc-ba6f-0aee76fa5181" />
+<img width="1920" height="1120" alt="image" src="https://github.com/user-attachments/assets/1263f2ba-4987-40d2-9797-23617454850a" />
 
+### Next Steps
+- Start adding screws and more permanent attachements for joint mechanism
+- Begin attaching the tendon in the physical prototype
+- Replicate the finger and attach it to a base
