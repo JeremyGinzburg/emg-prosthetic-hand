@@ -15,5 +15,15 @@
 - Design base for the finger
 - Research optimal methods for tendon wiring
 
+## June 29, 2026
 
+### Goal
+- Model a simple base with screw holes to create a second degree of freedom
+- 3D print all of the parts to observe joint functionality
 
+### What I Did
+- Designed a simple base that can be attached to the finger's middle portion at a joint
+- 3D printed the base, middle portion, and the fingertip to see how they fit together
+- Went through multiple sizing iterations to make sure that there was enough room for the joints to have a reasonable range of motion
+
+  
