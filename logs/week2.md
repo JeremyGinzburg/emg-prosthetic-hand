@@ -34,3 +34,18 @@
 - Start adding screws and more permanent attachements for joint mechanism
 - Begin attaching the tendon in the physical prototype
 - Replicate the finger and attach it to a base
+
+## July 1, 2026
+
+### Goal
+- Attach screws to 3D printed prototype to see if joint motion works
+- Try weaving a rubber band (tendon) through the designated holes and see if pulling it will close the finger
+
+### What I Did
+- Tried adding screws to hold the joints in place, had to reprint with slightly larger screw holes (3mm --> 3.5mm)
+- Began weaving the rubber band through the hole and saw that the holes were too small
+    - Holes were too small, started 3D printing with larger holes (1.3mm --> 3mm)
+
+### Next Steps
+- Weave the rubber band into the screw holes and create a functional finger that bends when the rubber band is pulled
+- Start designing the back of the hand and replicating 3 more fingers (excluding thumb)
