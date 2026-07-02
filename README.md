@@ -42,3 +42,19 @@ The design uses a single tendon (rubber band) to drive flexion across two joints
     - Each joint has one hinge degree of freedom to ensure optimal control with a single tendon
 - Internal Routing
     - Tendon is routed inside the hollow finger parts to protect it from wear and maintain consistent motion
+
+## Challenges
+- Finalize tendon routing within single finger and test full actuation
+- Implement return mechanism using an elastic cord
+- Redesign base and integrate into full finger
+- Introduce servo control
+- Transition into EMG-based signals
+
+## Repository Structure
+- /cad - Solidworks files and assemblies
+- /docs - Images, videos, and selected references
+- /logs - Engineering logs and iteration notes
+- /firmware - (future) microcontroller and EMG code
+
+## Acknowledgements
+This project builds on tendon-driven prosthetics research as well as open-source mechanical designs, adapted and simplified for a first working prototype
