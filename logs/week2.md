@@ -39,13 +39,28 @@
 
 ### Goal
 - Attach screws to 3D printed prototype to see if joint motion works
-- Try weaving a rubber band (tendon) through the designated holes and see if pulling it will close the finger
+- Try weaving a string through the designated holes and see if pulling it will close the finger
 
 ### What I Did
 - Tried adding screws to hold the joints in place, had to reprint with slightly larger screw holes (3mm --> 3.5mm)
-- Began weaving the rubber band through the hole and saw that the holes were too small
-    - Holes were too small, started 3D printing with larger holes (1.3mm --> 3mm)
+- Began weaving the string through the hole and saw that the holes were too small
+    - Started 3D printing with much larger holes (1.3mm --> 3mm)
 
 ### Next Steps
-- Weave the rubber band into the screw holes and create a functional finger that bends when the rubber band is pulled
+- Weave the rubber band into the screw holes and create a functional finger that bends when the string is pulled
 - Start designing the back of the hand and replicating 3 more fingers (excluding thumb)
+
+## July 3, 2026
+
+### Goal
+- Create a functional finger that opens when the string is pulled and closes using an elastic band
+
+### What I Did
+- Successfully weaved the string through the holes such that when the string is pulled, the finger closes
+- Added a second pair of holes on the fingertip and middle pieces for the rubber band
+- Attached the rubber band on the opposite side of the string and pulled the rubber band before attaching to increase tension
+- Tested the finger's ability to manually open and automatically close
+
+### Next Steps
+- Replace manual hand pulling with a servo
+- Replicate for more fingers
