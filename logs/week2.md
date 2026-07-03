@@ -61,6 +61,10 @@
 - Attached the rubber band on the opposite side of the string and pulled the rubber band before attaching to increase tension
 - Tested the finger's ability to manually open and automatically close
 
+https://github.com/user-attachments/assets/4641aa62-4bc4-4c51-ac22-6a175d73874a
+
+<img width="3024" height="4032" alt="Tendon-Routed Finger" src="https://github.com/user-attachments/assets/ef7c3b83-8c6d-48ce-8692-d9309728d6eb" />
+
 ### Next Steps
 - Replace manual hand pulling with a servo
 - Replicate for more fingers
