@@ -68,3 +68,17 @@ https://github.com/user-attachments/assets/4641aa62-4bc4-4c51-ac22-6a175d73874a
 ### Next Steps
 - Replace manual hand pulling with a servo
 - Replicate for more fingers
+
+## July 4, 2026
+
+### Goal
+- Transition to controlling finger actuation by using a servo and Arduino
+
+### What I Did
+- Decided to use SG90 microservos and an Arduino (originally was going to use Arduino Nano, switching to Arduino Uno)
+- Designed a temporary servo mount that attaches to the middle portion of the finger
+
+### Next Steps
+- Write and upload test code to the servo to ensure that it works and can be programmed properly
+- Switch the string in the finger to fishing line so it can be weaved into the holes within the servo horn
+- Test servo-controlled actuation
