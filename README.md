@@ -36,15 +36,15 @@ The design uses a single tendon (rubber band) to drive flexion across two joints
 - v1.0 - Initial Prototype
     - Desgined and printed finger components
     - Verified hinge joint motion
-- v1.1 - Tendon Routing Improvements (in progress)
+- v1.1 - Tendon Routing Improvements
     - Increased hole sizes for tendons
     - Adjusted hole placement to avoid interference with the hinge
 - v1.2 - Functional Tendon-Driven Finger
-      - Implemented tendon (string) actuation
-      - Added elastic return mechanism
-      - Achieved full open-close motion across joints
-      - Demonstrates smooth flexion and passive extension
-
+    -  Implemented tendon (string) actuation
+    -  Added elastic return mechanism
+    -  Achieved full open-close motion across joints
+    -  Demonstrates smooth flexion and passive extension
+  
 ## Design Decisions
 - Tendon-Driven Actuation
     - Simple, lower weight, and similar to biological mechanisms
