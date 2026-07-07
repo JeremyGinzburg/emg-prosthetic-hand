@@ -1,12 +1,12 @@
 # EMG-Controlled 3D Printed Prosthetic Finger
 3D-printed and EMG-controlled prosthetic hand with real-time signal processing and tendon-driven actuation. This project focuses on mechanical design, tendon routing, and iterative prototyping.
 
-## Demo (Finger Prototype)
+## Demo (Servo-Powered Finger Prototype)
 
-https://github.com/user-attachments/assets/a98a2705-2849-4ee8-9014-f061375d9e14
+https://github.com/user-attachments/assets/ce7d5607-2d94-4dee-b67e-697f45107c94
 
-- Actuated motion is controlled by pulling the string to bend the finger
-- The rubber band snaps the finger back into its neutral position
+- Actuated motion is controlled by a servo pulling the fishing tackle, which bends the finger
+- The rubber band snaps the finger back into its neutral position when tension in the fishing tackle is released
 
 ## Overview
 This project aims to develop a functional prosthetic finger that is controlled by a myoelectric (EMG) control system. The current stage focuses on prototyping a mechanically reliable, tendon-driven finger with multiple degrees of freedom and smooth actuation. 
