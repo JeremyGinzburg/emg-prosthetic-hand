@@ -14,8 +14,8 @@ This project aims to develop a functional prosthetic finger that is controlled b
 The design uses a single tendon (rubber band) to drive flexion across two joints, modeling how biological fingers operate.
 
 ## How It Works
-- A tendon runs through the finger segments and is anchored at the fingertip
-- Manually pulling the tendon causes the finger to curl
+- A tendon (fishing tackle) runs through the finger segments and is anchored at the fingertip
+- An SG90 servo pulls the tendon causes the finger to curl
 - An elastic return mechanism will restore the finger to its original position
 
 ## Current Design
@@ -23,14 +23,15 @@ The design uses a single tendon (rubber band) to drive flexion across two joints
 - Two hinge joints held in place by M3 screws
 - Internal tendon routing through hollow structures
 - Tendon anchored at the fingertip
+- SG90 servo powered by Arduino Uno
 - Assembled and physically tested prototype
 
 ## Current Status
 - CAD design implemented for full finger
 - First prototype printed and assembled
 - Joint motion validated
-- Tendon integration is in progress
-- Elastic return mechanism still being implemented
+- Tendon integration and elastic return mechanism successfully implemented
+- Wiring for SG90 servo and Arduino Uno completed
 
 ## Version History
 - v1.0 - Initial Prototype
@@ -44,6 +45,10 @@ The design uses a single tendon (rubber band) to drive flexion across two joints
     -  Added elastic return mechanism
     -  Achieved full open-close motion across joints
     -  Demonstrates smooth flexion and passive extension
+- v1.3 - Hardwired Servo-Powered Finger
+    - Replaced string with fishing tackle for the tendon mechanism
+    - Finger contracts by servo rotation instead of manual force
+    - Observed consistent performance (50+ successful contractions with very few mechanical/electrical issues)
   
 ## Design Decisions
 - Tendon-Driven Actuation
