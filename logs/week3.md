@@ -23,5 +23,32 @@
 - Observed successful finger actuation (see video in /docs)
 
 ### Next Steps
-- Redesign the base in Solidworks to accomodate 4 fingers
 - Add a small mounting area to screw the SG90 servo in place
+
+## July 8, 2026
+
+### Goal
+- Refine SG90 case and include a screw hole so it can be mounted
+
+### What I Did
+- Successfully redesigned the servo case to allow for the SG90 servo to be screwed in place
+- Added a hole for the servo wires to go through
+- Went through three iterations of Solidworks modeling and 3D printed iterations to ensure optimal placement
+
+<img width="141" height="284" alt="image" src="https://github.com/user-attachments/assets/40969a02-c7f9-4bb1-9475-474eb0091794" />
+
+### Next Steps
+- Practice coding in Arduino for controlling the extent that the finger is bent, rather then just having a servo sweep
+
+## July 9, 2026
+
+### Goal
+- Write a program in Arduino that allows the user to input how much the finger should bend
+
+### What I Did
+- Used Arduino IDE to create a program allowing the user to input a number into the Serial Monitor that corresponds to the finger flexion (see Servo_Angle_Input in /firmware)
+- Coded minimum and maximum values to ensure that there isn't slack or too much tension in the fishing tackle
+- Wrote another program that has the finger continuously bend and unbend between the minimum and maximum values (see Continuous_Flexion in /docs)
+
+### Next Steps
+- Create a larger base in solidworks to accomodate 4 additional fingers
