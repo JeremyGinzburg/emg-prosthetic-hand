@@ -3,7 +3,7 @@
 
 ## Demo (Servo-Powered Finger Prototype)
 
-https://github.com/user-attachments/assets/ce7d5607-2d94-4dee-b67e-697f45107c94
+https://github.com/user-attachments/assets/ed6a6339-9e3d-49cd-938e-f788866fb3cc
 
 - Actuated motion is controlled by a servo pulling the fishing tackle, which bends the finger
 - The rubber band snaps the finger back into its neutral position when tension in the fishing tackle is released
