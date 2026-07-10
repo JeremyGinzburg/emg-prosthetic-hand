@@ -48,7 +48,7 @@
 ### What I Did
 - Used Arduino IDE to create a program allowing the user to input a number into the Serial Monitor that corresponds to the finger flexion (see Servo_Angle_Input in /firmware)
 - Coded minimum and maximum values to ensure that there isn't slack or too much tension in the fishing tackle
-- Wrote another program that has the finger continuously bend and unbend between the minimum and maximum values (see Continuous_Flexion in /docs)
+- Wrote another program that has the finger continuously bend and unbend between the minimum and maximum values (see Continuous_Finger_Flexion in /docs)
 
 ### Next Steps
 - Create a larger base in solidworks to accomodate 4 additional fingers
