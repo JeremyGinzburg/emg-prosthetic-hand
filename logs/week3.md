@@ -51,4 +51,25 @@
 - Wrote another program that has the finger continuously bend and unbend between the minimum and maximum values (see Continuous_Finger_Flexion in /docs)
 
 ### Next Steps
-- Create a larger base in solidworks to accomodate 4 additional fingers
+- Create a larger base in Solidworks to accomodate 3 additional fingers
+- Map out circuit for a design with four fingers
+
+## July 10, 2026
+
+### Goal
+- Design the circuit for the four finger mechanism in TinkerCad and roughly map out the wiring
+
+### What I Did
+- Created a circuit design and wrote code in TinkerCad to simulate running four servos simultaneously
+
+https://github.com/user-attachments/assets/952dc470-4419-4437-9e56-5fa9d18c7a48
+
+- Ordered necessary electrical parts to create this circuit (breadboard, wall wart, barrel jack screw terminal adapter)
+
+### Next Steps
+- Design a temporary base that can hold four SG90 servos and can attach the middle portion of the finger
+
+## July 11, 2026
+
+### Goal
+
