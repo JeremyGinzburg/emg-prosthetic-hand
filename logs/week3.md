@@ -61,6 +61,7 @@
 
 ### What I Did
 - Created a circuit design and wrote code in TinkerCad to simulate running four servos simultaneously
+    - NOTE: I decided to use the Arduino Uno's 5V pin in TinkerCad for voltage, but for the actual circuit I will be using a wall wart power supply with a barrel jack screw terminal adapter
 
 https://github.com/user-attachments/assets/952dc470-4419-4437-9e56-5fa9d18c7a48
 
