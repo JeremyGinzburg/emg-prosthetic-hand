@@ -42,6 +42,8 @@
 - Wired the 4 servos to the breadboard and hardcoded the individual ranges for each finger
 - Wrote a simple program that has the fingers open and close on repeat
 
+https://github.com/user-attachments/assets/708be8dc-0c76-421c-aebe-eec08a24979b
+
 ### Next Steps
 - Add an additional joint on each finger to more accurately represent the human hand
 - Design a more appropriate servo holder that mimics a palm structure
