@@ -40,7 +40,7 @@
 
 ### What I Did
 - Wired the 4 servos to the breadboard and hardcoded the individual ranges for each finger
-- Wrote a simple program that has the fingers open and close on repeat
+- Wrote a simple program that has the fingers open and close on repeat (code is under Four_Finger_Control in /firmware)
 
 https://github.com/user-attachments/assets/708be8dc-0c76-421c-aebe-eec08a24979b
 
