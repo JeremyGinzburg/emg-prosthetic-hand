@@ -10,6 +10,7 @@
 
   <img width="113" height="188" alt="image" src="https://github.com/user-attachments/assets/9c57bc94-81b2-4712-b42c-dfa719961905" />
 
+  <img width="160" height="209" alt="image" src="https://github.com/user-attachments/assets/db2ff42d-b6f7-4a36-bec8-c59593978f3a" />
 
 ### Next Steps
 - Print 4 updated fingers with the additional joint
