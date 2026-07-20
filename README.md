@@ -6,7 +6,7 @@
 https://github.com/user-attachments/assets/ed6a6339-9e3d-49cd-938e-f788866fb3cc
 
 - Actuated motion is controlled by a servo pulling the fishing tackle, which bends the finger
-- The rubber band snaps the finger back into its neutral position when tension in the fishing tackle is released
+- The rubber band snaps the fingers back into its neutral position when tension in the fishing tackle is released
 
 ## Overview
 This project aims to develop a functional prosthetic finger that is controlled by a myoelectric (EMG) control system. The current stage focuses on prototyping a mechanically reliable, tendon-driven finger with multiple degrees of freedom and smooth actuation. 
@@ -19,7 +19,7 @@ The design uses a single tendon (rubber band) to drive flexion across two joints
 - An elastic return mechanism will restore the finger to its original position
 
 ## Current Design
-- 3D printed fingertip, middle segment, and temporary base
+- 3D printed fingertip, middle segment, and temporary servo holder
 - Two hinge joints held in place by M3 screws
 - Internal tendon routing through hollow structures
 - Tendon anchored at the fingertip
@@ -27,8 +27,8 @@ The design uses a single tendon (rubber band) to drive flexion across two joints
 - Assembled and physically tested prototype
 
 ## Current Status
-- CAD design implemented for full finger
-- First prototype printed and assembled
+- CAD design implemented for 4-finger prototype
+- Second prototype printed and assembled
 - Joint motion validated
 - Tendon integration and elastic return mechanism successfully implemented
 - Wiring for SG90 servo and Arduino Uno completed
@@ -49,6 +49,10 @@ The design uses a single tendon (rubber band) to drive flexion across two joints
     - Replaced string with fishing tackle for the tendon mechanism
     - Finger contracts by servo rotation instead of manual force
     - Observed consistent performance (50+ successful contractions with very few mechanical/electrical issues)
+- v1.4 - Servo-Powered 4 Finger Prototype
+    - Duplicated v1.3 to create 4 servo-powered fingers
+    - Wired all SG90 servos to a breadboard and achieved GND/+5V using a 5V/3A wall wart
+    - Hard-coded servo angles for open and close positions
   
 ## Design Decisions
 - Tendon-Driven Actuation
