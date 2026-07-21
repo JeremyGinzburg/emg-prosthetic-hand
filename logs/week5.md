@@ -15,3 +15,16 @@
 ### Next Steps
 - Print 4 updated fingers with the additional joint
 - Get all of the fingers to bend through servo power
+
+## July 20, 2026
+
+### Goal
+- Create a new 4 finger prototype with the additional joint in each finger
+- Run Arduino code that has the fingers repeatedly extend and contract to determine any structural weaknesses
+
+### What I Did
+- Assembled the 4 finger prototype and recorded a video of repeated servo-powered actuation
+
+### Next Steps
+- Redesign the servo holder to mimic a palm structure
+- Add a thumb finger to the side
