@@ -25,6 +25,8 @@
 ### What I Did
 - Assembled the 4 finger prototype and recorded a video of repeated servo-powered actuation
 
+https://github.com/user-attachments/assets/fcefc8ca-046b-4507-bcd2-b46573aede8d
+
 ### Next Steps
 - Redesign the servo holder to mimic a palm structure
 - Add a thumb finger to the side
