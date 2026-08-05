@@ -56,8 +56,10 @@ https://github.com/user-attachments/assets/fcefc8ca-046b-4507-bcd2-b46573aede8d
 - Plan to attach the two pieces with M3 screws and increase the length of the fishing tackle
 
   <img width="426" height="240" alt="Palm CAD" src="https://github.com/user-attachments/assets/69086c22-5a4c-45ff-b2c9-5d4ac198bc93" />
-  <img width="313" height="300" alt="image" src="https://github.com/user-attachments/assets/a280f4a8-3b2b-4706-b07a-47a812cc7459" />
 <img width="305" height="198" alt="image" src="https://github.com/user-attachments/assets/349855d8-543f-42e9-bb6b-423b5f167912" />
+
+### Next Steps
+- 3D print the updated palm assembly and test functionality
 
 
 
